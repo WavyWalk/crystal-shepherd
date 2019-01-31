@@ -1,0 +1,7 @@
+require "multipart"
+require "./shepherd/**"
+require "./routes/**"
+require "./config/**"
+require "./app/models/app_domain_base"
+require "./app/**"
+require "./initializers/**"
